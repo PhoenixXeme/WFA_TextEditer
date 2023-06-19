@@ -1,0 +1,17 @@
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\WFA_TextEditer.exe
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\WFA_TextEditer.deps.json
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\WFA_TextEditer.runtimeconfig.json
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\WFA_TextEditer.dll
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\WFA_TextEditer.pdb
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.csproj.AssemblyReference.cache
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.Form1.resources
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.csproj.GenerateResource.cache
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.AssemblyInfoInputs.cache
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.AssemblyInfo.cs
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.csproj.CoreCompileInputs.cache
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.dll
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\refint\WFA_TextEditer.dll
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.pdb
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\WFA_TextEditer.genruntimeconfig.cache
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\obj\v0.1\net7.0-windows\win-x64\ref\WFA_TextEditer.dll

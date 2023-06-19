@@ -1,0 +1,2 @@
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\publish\WFA_TextEditer.pdb
+C:\C# Projects\WFA_TextEditer\WFA_TextEditer\bin\v0.1\net7.0-windows\win-x64\publish\WFA_TextEditer.exe
